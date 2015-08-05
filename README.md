@@ -1,8 +1,10 @@
 #Contract Wizard Discussion
 
 Link to the tool:
-[Contract Line Item Wizard Beta](http://clinwizard.540.co)
-[Contract Line Item Wizard Development](http://test-clinwizard.540.co) (This version is not stable and will change regularly)
+| Version       | Link          | Comments  |
+| ------------- |:-------------:| -----:|
+| Contract Line Item Wizard Beta     | [link](http://test-clinwizard.540.co) | Will change on monthly intervals |
+| Contract Line Item Wizard Development     | [link](http://test-clinwizard.540.co)      |  This version is not stable and will change regularly |
 
 ###How to Provide Feedback
 This is a place to track feedback and issues for the Contract Line Item Wizard. 
