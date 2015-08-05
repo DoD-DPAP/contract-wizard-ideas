@@ -1,6 +1,7 @@
 #Contract Wizard Discussion
 
-Link to the tool:
+Links to the tool:
+
 | Version       | Link          | Comments  |
 | ------------- |:-------------:| -----:|
 | Contract Line Item Wizard Beta     | [link](http://test-clinwizard.540.co) | Will change on monthly intervals |
